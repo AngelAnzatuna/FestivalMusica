@@ -1,10 +1,10 @@
 # Festival de Música - Techno & EDM Festival
 
-Plantilla web responsiva para un festival de música electrónica, desarrollada con HTML5, CSS3 y JavaScript. Incluye secciones de información, line up, galería y boletos, video de fondo, imágenes optimizadas y navegación interna.
+Plantilla web responsiva para un festival de música electrónica, desarrollada con HTML5, SCSS y JavaScript. Incluye secciones de información, line up, galería y boletos, video de fondo, imágenes optimizadas y navegación interna.
 
 ## Características
 - Estructura semántica con HTML5
-- Estilos modernos con CSS3 y SASS
+- Estilos modernos con SCSS
 - Optimización de imágenes (JPG, WebP, AVIF)
 - Video de fondo compatible con varios formatos
 - Automatización de tareas con Gulp
