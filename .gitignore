@@ -1,0 +1,23 @@
+# Carpetas de dependencias
+node_modules/
+vendor/
+
+# Archivos de configuración local
+*.env
+*.local
+
+# Carpetas de compilación o salida
+dist/
+build/
+out/
+
+# Archivos temporales del sistema (Windows)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos de VS Code
+.vscode/
+
+.DS_Store
+*.log
